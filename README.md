@@ -15,4 +15,4 @@ A simple command-line Tic Tac Toe game built using Python. This game allows two 
 ## Running the Game
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/tic-tac-toe-python.git
+   git clone https://github.com/sm-28601/Tic-Tac-Toe-Game.git
